@@ -1,11 +1,3 @@
-<style>
-th, td {
-    min-width: 120px;
-    padding-left: 8px;
-    padding-right: 8px;
-}
-</style>
-
 # 캐릭터 디자인 문서
 
 ## 서론
